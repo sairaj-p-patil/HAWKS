@@ -96,6 +96,7 @@ Use **#Hawks / Hawks** when participating in hackathons, events, projects, or sh
 
 ## 🏗️ Community Structure
 
+### WhatsApp
 * **Playground** — Discussions, networking, ideas & collaboration.
 * **Ambassadors** — Microsoft Student Ambassadors.
 * **Resources** — Learning resources & opportunities.
