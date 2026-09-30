@@ -1,5 +1,66 @@
 # 🪽 Hawks Community — Code of Conduct
 
+<h2>🛰️ Hawks Community</h2>
+
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260906_163221.png"/>
+</p>
+
+
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Hawks_poster_update1.png" width="100%"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre><code>
+ 
+Hawks Community is a developer-led technology community built for
+developers, designers, builders, and technology enthusiasts.
+
+We bring people together to learn, collaborate, build meaningful projects,
+and discover new opportunities across the technology ecosystem.
+
+With a growing network of engineers, designers, and Microsoft,Google & other
+Ambassadors, Hawks creates a space for knowledge sharing, technical
+discussions, open-source collaboration, events, and updates related to
+opportunities & resources that elevate your skills.
+
+
+  
+</code></pre>
+<br/>
+<br/>
+</td>
+
+</tr>
+</table>
+
+
+<h2 align="center">We'd love to have you Onbaord!</h2>
+
+<p align="center">
+  <a href="https://linktr.ee/hawks.org">
+    <img
+      src="https://img.shields.io/badge/Onboard%20Hawks-C8102E?style=for-the-badge&labelColor=C8102E&color=C8102E"
+      height="50"
+      width="300"
+      alt="Onboard Hawks"
+    />
+  </a>
+</p>
+
+<br>
+
+
+
 Welcome to **Hawks** — a community for people interested in **technology, design, business, creativity, engineering, innovation, and more.**
 
 Hawks isn't just a community to join. **It's a community to contribute to.**
