@@ -65,12 +65,6 @@ your skills.
 
 <br>
 
-
-
-Welcome to **Hawks** — a community for people interested in **technology, design, business, creativity, engineering, innovation, and more.**
-
-Hawks isn't just a community to join. **It's a community to contribute to.**
-
 ## 🤝 Community Guidelines
 
 * Be respectful and supportive of other members.
