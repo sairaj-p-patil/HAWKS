@@ -19,17 +19,25 @@
 
 <pre><code>
  
-Whether you're into technology, design, business, creativity, engineering, innovation,
-or something completely different, Hawks is a space to connect with like-minded people,
-contribute your skills, and build something meaningful together.
+Whether you're into technology, design, business,
+creativity, engineering, innovation,or something 
+completely different, Hawks is a space to connect 
+with like-minded people,contribute your skills,
+and build something meaningful together.
 
-Hawks isn't just a community to join. It's a community to contribute to. Bring your 
-ideas, share what you know, find people to build with, and help others grow along the way.
+Hawks isn't just a community to join. It's a 
+community to contribute to. Bring your ideas,
+share what you know, find people to build 
+with, and help others grow along the way.
 
-With a growing network of engineers, designers, and Microsoft,Google & other
-Ambassadors, Hawks creates a space for knowledge sharing, technical
-discussions, open-source collaboration, events, and updates related to
-opportunities & resources that elevate your skills.
+With a growing network of engineers, designers, 
+and Microsoft,Google & other
+Ambassadors, Hawks creates a space for
+knowledge sharing, technical
+discussions, open-source collaboration, 
+events, and updates related to
+opportunities & resources that elevate 
+your skills.
 
 
   
