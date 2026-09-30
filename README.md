@@ -1,8 +1,5 @@
 # 🪽 Hawks Community — Code of Conduct
 
-<h2>🛰️ Hawks Community</h2>
-
-
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260906_163221.png"/>
 </p>
@@ -22,11 +19,9 @@
 
 <pre><code>
  
-Hawks Community is a developer-led technology community built for
-developers, designers, builders, and technology enthusiasts.
+Whether you're into technology, design, business, creativity, engineering, innovation, or something completely different, Hawks is a space to connect with like-minded people, contribute your skills, and build something meaningful together.
 
-We bring people together to learn, collaborate, build meaningful projects,
-and discover new opportunities across the technology ecosystem.
+Hawks isn't just a community to join. It's a community to contribute to. Bring your ideas, share what you know, find people to build with, and help others grow along the way.
 
 With a growing network of engineers, designers, and Microsoft,Google & other
 Ambassadors, Hawks creates a space for knowledge sharing, technical
